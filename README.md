@@ -1,2 +1,2 @@
 Python Calculator
--- Used 'Math Module' --
+-- Used 'Math & Time Module' --
